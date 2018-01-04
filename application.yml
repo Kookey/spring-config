@@ -13,3 +13,6 @@ spring:
     config:
       discovery:
         enabled: true
+security:
+  basic:
+    enabled: false
